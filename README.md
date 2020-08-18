@@ -7,9 +7,16 @@ Blogs
 
 Video Tutorials:
 
+
 Architectural Video tutorials:
 ## Basic: 
 ## Intermediate: 
+E-Commerce Design Questions: 
+1. Amazon System Design : https://www.youtube.com/watch?v=EpASu_1dUdE
+
+TAXI/CAB aggregator services like Uber, OLA, GRAB,Lyft:
+1. https://www.youtube.com/watch?v=umWABit-wbk
+
 ## Advanced:
 Serverless Architectural videos:
 1. https://www.youtube.com/watch?v=1owKl4sGYKg
