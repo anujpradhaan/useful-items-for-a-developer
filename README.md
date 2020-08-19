@@ -20,3 +20,14 @@ TAXI/CAB aggregator services like Uber, OLA, GRAB,Lyft:
 ## Advanced:
 Serverless Architectural videos:
 1. https://www.youtube.com/watch?v=1owKl4sGYKg
+
+## Serverless Blogs: 
+https://www.serverless.com/blog/serverless-application-for-long-running-process-fargate-lambda
+
+## Resume:
+https://resumepuppy.com
+
+## Documentation
+For creating diagrams for free : 
+1. https://app.diagrams.net/
+2. http://lucidchart.com/
