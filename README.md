@@ -31,3 +31,16 @@ https://resumepuppy.com
 For creating diagrams for free : 
 1. https://app.diagrams.net/
 2. http://lucidchart.com/
+
+## Security:
+OWASP Top 10 Web Application Security Risks
+Videos:
+1. https://www.youtube.com/watch?v=rWHvp7rUka8&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD&index=1
+
+Blogs:
+1. https://owasp.org/www-project-top-ten/
+
+Cheetsheets:
+https://cheatsheetseries.owasp.org/index.html
+
+
