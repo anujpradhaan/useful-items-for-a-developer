@@ -12,3 +12,6 @@ https://planet.jboss.org/post/collection_caching_in_the_hibernate_second_level_c
 # How does Hibernate store second-level cache entries
 https://vladmihalcea.com/how-does-hibernate-store-second-level-cache-entries/
 
+# How to build a pricing engine for e-commerce promotions and offers
+https://blog.griddynamics.com/how-to-replatform-a-pricing-engine/
+
