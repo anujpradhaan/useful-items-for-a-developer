@@ -16,3 +16,8 @@
 # What is sharding in Redis 
 1. https://redisson.org/glossary/sharding.html
 
+## Documentation - Tools to create architectural diagrams
+For creating diagrams for free : 
+1. https://app.diagrams.net/
+2. http://lucidchart.com/
+
