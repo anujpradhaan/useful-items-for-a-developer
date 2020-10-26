@@ -9,3 +9,10 @@
 # Speed Reading: 
 ## Speed reading is an essential skill for every engineer
 1. https://readspeeder.com/
+
+# Managing Meetings
+### Descirption: Meetings are something you can't live with in your development career. You will have meetings with your peers, boss, other teams etc. 
+1. How to have effective meetings: https://getlighthouse.com/blog/tips-conducting-effective-meetings/
+2. Why taking notes is important: https://getlighthouse.com/blog/managers-take-notes/
+
+
