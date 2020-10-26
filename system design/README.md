@@ -4,6 +4,9 @@
 ### Get all the details about why a system design interview is important below :  
     1. https://www.hiredintech.com/classrooms/system-design/lesson/52
     2. https://docs.google.com/document/d/1tVtied_iBx38aRyPrxtjuHD-VgpPVkjIkcdlhSj_EGg/edit?usp=sharing
+### Short Video series on understanding microservice from a high level 
+### and some important concepts related to the architecture
+    https://www.youtube.com/watch?v=-XGTjzz7nEs&list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO
 ### Couple of links to some good system design questions: 
     1. Design Facebook Timeline : https://www.facebook.com/note.php?note_id=10150468255628920
 
@@ -25,25 +28,6 @@ Serverless Architectural videos:
 ## Serverless Blogs: 
 https://www.serverless.com/blog/serverless-application-for-long-running-process-fargate-lambda
 
-## Resume:
-https://resumepuppy.com
-
-## Documentation
-For creating diagrams for free : 
-1. https://app.diagrams.net/
-2. http://lucidchart.com/
-
-## Security:
-OWASP Top 10 Web Application Security Risks
-Videos:
-1. https://www.youtube.com/watch?v=rWHvp7rUka8&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD&index=1
-2. https://www.youtube.com/watch?v=avFR_Af0KGk&t=821s
-
-Blogs:
-1. https://owasp.org/www-project-top-ten/
-2. https://developers.google.com/recaptcha/docs/invisible
-
-Cheetsheets:
-https://cheatsheetseries.owasp.org/index.html
-
+## Youtube channels for high level system design videos of different tech companies
+1. https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
 
