@@ -32,3 +32,12 @@ https://www.serverless.com/blog/serverless-application-for-long-running-process-
 ## Youtube channels for high level system design videos of different tech companies
 1. https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
 
+## Reading Material
+#### Paid
+educative.io has good content which you can have lifetime access to after paying 1 time fees per course.
+    
+[System Design Interview (HLD)](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p)
+
+[Object Oriented Design Interview (LLD)](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
+     
+
